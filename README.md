@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EndeyshentLabs
+### Hi, I’m @EndeyshentLabs (aka CIP_) 
 - 👀 I’m interested in games and programming
 - 🌱 I’m currently learning java and javascript
 - 💞️ I’m looking to collaborate on ...
