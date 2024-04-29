@@ -1,1 +1,11 @@
-![](https://media.discordapp.net/attachments/770703144496922697/1004705741464162304/overlay-ussr.png?width=405&height=405)
+# EndeyshentLabs
+
+- Self-taught programmer
+  * Systems programmer
+- Linguistics enthusiast
+- Linux user
+- Concatenative programming enjoyer
+
+## EXSES stack-based concatenative programming language is moving!
+
+EXSES had moved to [source hut](https://sr.ht/~endeyshentlabs/EXSES/)
